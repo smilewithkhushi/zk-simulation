@@ -4,4 +4,10 @@ node_modules
 
 .next
 
+
+tsconfig.tsbuildinfo
+package-lock.json
+next-env.d.ts
+
+
 pnpm-lock.yaml
